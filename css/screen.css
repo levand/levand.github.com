@@ -152,6 +152,10 @@ ul.posts {
 
 }
 
+  #post div {
+      margin: 1em 0;
+  }
+  
   /* standard */
 
   #post pre {
